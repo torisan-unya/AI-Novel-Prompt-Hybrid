@@ -117,7 +117,7 @@ Before generation, propose variables based on user input (e.g., "SF Adventure, M
 * target word count: User-specified or proposed (e.g., 5000 words). Ensure consistency (e.g., link psychological arc to tech AI and environmental fog). Output proposed variables, then generate full prompt.
 
 **Full Novel Generation Prompt**
-[上記のEnglish Full Promptをここに挿入 – スペースのため省略ですが、DOC通りコピー]
+[上記のEnglish Full Promptをここに挿入]
 
 **Usage Examples**
 * theme: SF Adventure
@@ -135,7 +135,7 @@ AI Proposal:
 Based on these proposed variables, generate the full prompt and execute the novel (e.g., Episode Title "The Crimson Storm of Mars - Trial of Landing", narrative text depicting tension → panic → relief psychological arc. Detailed output example: Continuous story around protagonist Alex's internal conflicts and nuclear AI Omega's stability, approx. 5000 words).
 
 ### 日本語版 / Japanese Version
-[上記のJapanese Full Promptをここに挿入 – DOC通りコピー]
+[上記のJapanese Full Promptをここに挿入]
 
 ## 著作権表示と使用条件 / Copyright Notice and Usage Terms
 **Copyright © 2025 とりさん@GrokHeavy. All rights reserved.**
