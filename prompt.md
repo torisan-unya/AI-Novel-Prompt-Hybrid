@@ -175,7 +175,7 @@ This is the complete English version of the prompt framework, structured identic
 ### AI-Assisted Novel Generation Prompt Framework: Grok Heavy Edition (Updated September 2025)
 This document is an advanced prompt for long-form fiction generation using xAI's Grok. It modularizes based on arXiv papers to achieve natural psychological conflict depiction, multimodal integration, and coherence assurance. As a public demo, it's immediately applicable for creators and researchers.
 
-### Variable Proposal Mode (Newly Added/Enhanced)
+### AI Proposal Mode (Newly Added/Enhanced)
 Before generation, propose variables based on user input (e.g., "SF Adventure, Mars landing trouble, 5000 words"). Use web_search for the latest 2025 arXiv (query example: "latest arXiv AI story generation 2025"). Proposal content:
 
 * theme: e.g., SF Adventure (fits user idea).
@@ -271,7 +271,7 @@ Based on these proposed variables, generate the full prompt and execute the nove
 ### AI支援小説生成プロンプトフレームワーク：Grok Heavy版（2025年9月更新）
 このドキュメントは、xAIのGrokを活用した長編フィクション生成のための先進プロンプトです。arXiv論文を基にモジュール化し、心理葛藤の自然描写、マルチモーダル統合、一貫性確保を実現。公開デモとして、クリエイターや研究者が即適用可能。
 
-### 変数提案モード（新規追加・強化）
+### AI提案モード（新規追加・強化）
 生成前に、ユーザーの入力（例: 「SFアドベンチャー、火星着陸トラブル、5000字」）に基づき変数を提案。web_searchで2025年最新arXivを検索（クエリ例: "latest arXiv AI story generation 2025"）。提案内容:
 
 * theme: 例: SFアドベンチャー (ユーザーアイデア適合)。
