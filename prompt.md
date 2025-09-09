@@ -9,7 +9,8 @@ This prompt is an advanced framework for AI-assisted novel generation. Based on 
 1. Uses theory to control emotional progression (e.g., building tension and releasing it naturally).
 2. Uses theory to control situational descriptions (e.g., sensory details like sights and sounds tied to psychology).
 3. Since 1 and 2 are computationally intensive, ANN (Artificial Neural Network approximation) rationalizes the processing to secure computational resources and maintain efficiency for long-form generation.
-4. For tedious variable setup (e.g., genre or protagonist), an AI suggestion mode lets the AI propose options interactively based on your rough idea—making it easier for beginners to skip manual hassle and focus on enjoying the story's psychological changes.
+4. For tedious variable setup (e.g., genre or protagonist), an AI suggestion mode lets the AI propose options interactively based on your rough idea—making it easier for beginners to skip hassle and focus on enjoying the story's psychological changes.
+5. Grok's novel generation text is predictable and lacks originality in previous evaluations, but we reverse that interpretation to turn predictability (controllable by papers) into an advantage.
 
 ### Revised Japanese Version
 このプロンプトは、AI支援小説生成のための先進的フレームワークです。検証済みarXiv論文群（例: [arXiv:2401.14423 "Prompt Design and Engineering: Introduction and Advanced Methods" by Xavier Amatriain](https://arxiv.org/abs/2401.14423)、[arXiv:2506.16445 "StoryWriter: A Multi-Agent Framework for Long Story Generation" by Haotian Xia](https://arxiv.org/abs/2506.16445)）を基盤に、内面的葛藤の描写を軸としたモジュール化アプローチを採用。テーマ変数でSFアドベンチャー、ミステリー心理サスペンス、歴史ドラマなどに対応し、プロット適合>95%、bias<5%の倫理チェックを保証。Grokツール連携のマルチモーダル拡張（[arXiv:2407.08683 "SEED-Story: Multimodal Long Story Generation with Large Language Model" by Shuai Yang](https://arxiv.org/abs/2407.08683)に更新でナラティブ適合向上）で没入感を向上させます。感情波及（緊張頂点→解放余韻）の自然性を強調。修正点: CO-STARをPrompt Engineering基盤に調整; arXiv:2501.05079をSEED-Storyに置き換え。
@@ -19,6 +20,7 @@ This prompt is an advanced framework for AI-assisted novel generation. Based on 
 2. 状況描写を理論で制御した（例: 視覚や音などの感覚詳細を心理的に連動）。
 3. 1・2は処理負荷が高いため、ANN（人工ニューラルネットワーク近似）で処理を合理化して計算リソースを確保した（長編生成の効率を維持）。
 4. 変数の指定（例: ジャンルや主人公）が面倒な場合、AI提案モードで粗いアイデアに基づいてインタラクティブにオプションを提案—初心者が手間を省き、ストーリーの心理変化を楽しむことに集中しやすくする。
+５．GROKの小説生成の文章は予測可能で独自性が薄いという今までの評価を逆に解釈し、予測可能（論文制御できる）という利点に変換。
 
 ## English Version: Novel Generation Prompt (Full Text)
 **Prompt Engineering Framework Light Integration** (arXiv:2401.14423 "Prompt Design and Engineering: Introduction and Advanced Methods" by Xavier Amatriain base, Medium 2025 practices): Context=[Document list + theme], Objective=[Plot fit >95%, Ethical check: Internal conflict bias verification], Style=[Style sample embedding, Psychological conflict emphasis]. Flexible adjustment with variables [theme]/[target word count].
