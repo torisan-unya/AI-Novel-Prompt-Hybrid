@@ -1,6 +1,6 @@
 # Extended Framework for Human-AI Collaborative Intelligence: Empirical Validation and Practical Implementation
 
-**Author:** Torisan@GrokHeavy  
+**Author:** Torisan Unya [@torisan_unya]  
 **Date:** January 2025  
 **Keywords:** Human-AI Collaboration, Collaborative Intelligence, Extended Framework, Empirical Validation
 
@@ -8,7 +8,7 @@
 
 ## Historical Note
 
-This paper extends our previous theoretical framework [Torisan@GrokHeavy, 2025a] with comprehensive empirical validation, practical implementation protocols, and multi-domain application analysis. The Extended Collaborative Intelligence Index (X-CII) represents a significant evolution from the initial E-CEI framework.
+This paper extends our previous theoretical framework [Torisan Unya [@torisan_unya], 2025a] with comprehensive empirical validation, practical implementation protocols, and multi-domain application analysis. The Extended Collaborative Intelligence Index (X-CII) represents a significant evolution from the initial E-CEI framework.
 
 ---
 
@@ -20,7 +20,7 @@ Building upon our theoretical foundation established in early 2025, this paper p
 
 ## 1. Introduction
 
-The landscape of human-AI collaboration has evolved rapidly since our initial theoretical framework publication [Torisan@GrokHeavy, 2025a]. While our previous work established the foundational concepts of Enhanced Collaborative Effectiveness Index (E-CEI), three critical limitations emerged:
+The landscape of human-AI collaboration has evolved rapidly since our initial theoretical framework publication [Torisan Unya [@torisan_unya], 2025a]. While our previous work established the foundational concepts of Enhanced Collaborative Effectiveness Index (E-CEI), three critical limitations emerged:
 
 1. **Static Measurement Paradigm**: The original E-CEI framework relied on relatively static metrics that failed to capture the dynamic nature of evolving human-AI partnerships.
 
@@ -342,7 +342,7 @@ The transition from measuring collaborative effectiveness to collaborative intel
 
 ## References
 
-[1] Torisan@GrokHeavy. (2025a). Theoretical Framework for Human-AI Collaborative Effectiveness: The E-CEI Model. *Journal of Collaborative Intelligence*, 1(1), 1-24.
+[1] Torisan Unya [@torisan_unya]. (2025a). Theoretical Framework for Human-AI Collaborative Effectiveness: The E-CEI Model. *Journal of Collaborative Intelligence*, 1(1), 1-24.
 
 [2] Brown, A., et al. (2024). Measuring Human-AI Team Performance in Complex Domains. *AI & Society*, 39(2), 445-467.
 
@@ -354,9 +354,9 @@ The transition from measuring collaborative effectiveness to collaborative intel
 
 ---
 
-**Citation**: Torisan@GrokHeavy. (2025b). Extended Framework for Human-AI Collaborative Intelligence: Empirical Validation and Practical Implementation. *Journal of Advanced Collaborative Intelligence*, 1(2), 1-28.
+**Citation**: Torisan Unya [@torisan_unya]. (2025b). Extended Framework for Human-AI Collaborative Intelligence: Empirical Validation and Practical Implementation. *Journal of Advanced Collaborative Intelligence*, 1(2), 1-28.
 
-**Corresponding Author**: Torisan@GrokHeavy  
+**Corresponding Author**: Torisan Unya [@torisan_unya] 
 **Email**: research@collaborative-intelligence.org  
 **ORCID**: 0000-0000-0000-0000
 
