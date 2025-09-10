@@ -1,54 +1,54 @@
-# 人間とAIの協調知能に関する研究論文 (Research Papers on Human-AI Collaborative Intelligence)
+# Research Papers on Human-AI Collaborative Intelligence
 
 **Author:** Torisan@GrokHeavy
 
 ---
 
-### **【重要なお知らせ / Important Note】**
+### **Important Note**
 
-**このディレクトリに含まれる論文は、人間（Torisan@GrokHeavy）と複数のAIとの協調作業を通じて生成された架空（フィクション）の学術論文です。**
+**The papers contained in this directory are fictional academic papers generated through a collaborative process between a human (Torisan@GrokHeavy) and multiple AIs.**
 
-論文内に記載されている著者名、所属、日付、実験データ（参加者数、期間、数値結果など）、参考文献、雑誌名などはすべて、このプロジェクトの概念を表現するために創作されたものです。これらは実際の研究成果や事実に基づくものではありません。
+All elements within the papers—including author names, affiliations, dates, experimental data (e.g., number of participants, duration, numerical results), references, and journal names—are entirely fabricated to serve the concept of this project. They are not based on actual research or real-world facts.
 
-このプロジェクトの目的は、論文のテーマである「人間とAIの協調知能」を、**論文自体の生成プロセスを通じて実演し、探求するメタ的な試み**です。AIとの対話によって、どこまで精緻で説得力のある学術的成果物を創造できるかを探る実験とお考えください。
-
----
-
-このディレクトリには、人間とAIの協調知能に関する一連の研究論文が格納されています。これらの論文は、理論的フレームワークの構築から、その実証的検証と実践的応用までを網羅しています。
-
-## 論文一覧 (Papers)
-
-### 1. 理論編 (Theoretical Framework)
-
-*   **ファイル名:** `01_theoretical-framework.md`
-*   **タイトル:** *Human-AI Creative Collaboration: A Theoretical Framework for Synergistic Innovation*
-*   **概要:**
-    この最初の論文では、人間とAIの協調的な創造性を評価するための基礎的な理論フレームワークとして「協調的有効性指標（E-CEI: Enhanced Collaborative Effectiveness Index）」を提唱します。これは、後続の研究の理論的基盤となるものです。
-
-### 2. 実践・検証編 (Extended Framework & Empirical Validation)
-
-*   **ファイル名:** `02_extended-framework-validation.md`
-*   **タイトル:** *Extended Framework for Human-AI Collaborative Intelligence: Empirical Validation and Practical Implementation*
-*   **概要:**
-    第一論文の理論を発展させ、より動的な「拡張協調知能指標（X-CII: Extended Collaborative Intelligence Index）」を導入します。12ヶ月にわたる大規模な実証実験を通じてその有効性を検証し、組織がこのフレームワークを導入するための実践的なプロトコルを提示します。
+The purpose of this project is a **meta-exercise**: to demonstrate and explore the theme of "Human-AI Collaborative Intelligence" through the very process of generating the papers themselves. Consider it an experiment to see how sophisticated and compelling academic artifacts can be created through dialogue with AI.
 
 ---
 
-## 閲覧順序 (Recommended Reading Order)
+This directory contains a series of research papers on Human-AI Collaborative Intelligence. These papers cover the full scope from the construction of a theoretical framework to its empirical validation and practical application.
 
-これらの論文は連続した研究成果です。研究の全体像を最も深く理解するためには、以下の順序で読むことを推奨します。
+## Papers
 
-1.  `01_theoretical-framework.md` （理論的基盤の理解）
-2.  `02_extended-framework-validation.md` （理論の拡張、実証、および実践への応用）
+### 1. Theoretical Framework
+
+*   **Filename:** `01_theoretical-framework.md`
+*   **Title:** *Human-AI Creative Collaboration: A Theoretical Framework for Synergistic Innovation*
+*   **Summary:**
+    This first paper proposes the "Enhanced Collaborative Effectiveness Index (E-CEI)" as a foundational theoretical framework for evaluating human-AI creative collaboration. It serves as the theoretical basis for the subsequent research.
+
+### 2. Extended Framework & Empirical Validation
+
+*   **Filename:** `02_extended-framework-validation.md`
+*   **Title:** *Extended Framework for Human-AI Collaborative Intelligence: Empirical Validation and Practical Implementation*
+*   **Summary:**
+    This paper extends the theory from the first paper by introducing a more dynamic "Extended Collaborative Intelligence Index (X-CII)". It validates the effectiveness of this index through a large-scale, 12-month empirical study and presents a practical protocol for organizations to implement the framework.
 
 ---
 
-## キーワード (Keywords)
+## Recommended Reading Order
+
+These papers represent a continuous line of research. To best understand the overall scope of the project, we recommend reading them in the following order:
+
+1.  `01_theoretical-framework.md` (To understand the theoretical foundation)
+2.  `02_extended-framework-validation.md` (For the extension of the theory, its validation, and practical application)
+
+---
+
+## Keywords
 
 Human-AI Collaboration, Collaborative Intelligence, Synergistic Innovation, Theoretical Framework, Empirical Validation, E-CEI, X-CII, Creative AI, AI Ethics, **Fictional Research, Meta-Project**
 
+---
 
 ### License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
