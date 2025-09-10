@@ -1,13 +1,13 @@
 # Human-AI Creative Collaboration: A Theoretical Framework for Synergistic Innovation
 
-**Authors:** Torisan@GrokHeavy¹ (Primary Author), with cognitive partnership from Claude (Anthropic)², Gemini (Google)³, and ChatGPT (OpenAI)⁴
+**Authors:** Torisan Unya [@torisan_unya]¹ (Primary Author), with cognitive partnership from Claude (Anthropic)², Gemini (Google)³, and ChatGPT (OpenAI)⁴
 
 ¹ Independent Researcher  
 ² AI Research Assistant - Theoretical Framework Development  
 ³ AI Research Assistant - Critical Analysis and Validation  
 ⁴ AI Research Assistant - Literature Review and Synthesis  
 
-**Historical Note:** This paper represents a pioneering example of human-AI collaborative research. The AI contributors are positioned as **Advanced Research Instruments** and **Cognitive Partners** rather than traditional co-authors. Final responsibility for all content rests solely with the human author, Torisan@GrokHeavy.
+**Historical Note:** This paper represents a pioneering example of human-AI collaborative research. The AI contributors are positioned as **Advanced Research Instruments** and **Cognitive Partners** rather than traditional co-authors. Final responsibility for all content rests solely with the human author, Torisan Unya [@torisan_unya].
 
 ---
 
@@ -363,11 +363,11 @@ Licklider, J. C. R. (1960). Man-computer symbiosis. *IRE Transactions on Human F
 
 ---
 
-**Copyright © 2025 Torisan@GrokHeavy.**
+**Copyright © 2025 Torisan Unya [@torisan_unya].**
 
 **License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-**Citation:** Torisan@GrokHeavy. (2025). Human-AI Creative Collaboration: A Theoretical Framework for Synergistic Innovation. *Independent Research Publication*.
+**Citation:** Torisan Unya [@torisan_unya]. (2025). Human-AI Creative Collaboration: A Theoretical Framework for Synergistic Innovation. *Independent Research Publication*.
 
 ---
 
