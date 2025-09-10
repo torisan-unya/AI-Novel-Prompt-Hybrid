@@ -1,12 +1,12 @@
 # Research Papers on Human-AI Collaborative Intelligence
 
-**Author:** Torisan@GrokHeavy
+**Author:** Torisan Unya [@torisan_unya]
 
 ---
 
 ### **Important Note**
 
-**The papers contained in this directory are fictional academic papers generated through a collaborative process between a human (Torisan@GrokHeavy) and multiple AIs.**
+**The papers contained in this directory are fictional academic papers generated through a collaborative process between a human (Torisan Unya [@torisan_unya]) and multiple AIs.**
 
 All elements within the papers—including author names, affiliations, dates, experimental data (e.g., number of participants, duration, numerical results), references, and journal names—are entirely fabricated to serve the concept of this project. They are not based on actual research or real-world facts.
 
