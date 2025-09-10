@@ -138,16 +138,16 @@ AI/機械学習使用時: 出力や派生作品に上記の帰属を明記して
 
 ご質問があれば @torisan_unya まで（任意）。
 
-とりさん@GrokHeavy / Torisan@GrokHeavy
+Torisan Unya [@torisan_unya]
 
 ### English:
-Copyright © 2025 Torisan@GrokHeavy. All rights reserved.
+Copyright © 2025 Torisan Unya [@torisan_unya]. All rights reserved.
 
 The novel generation prompt described in this document (Title: AI-Assisted Novel Generation Prompt - CO-STAR & StoryWriter Hybrid Framework) is published under a Creative Commons Attribution 4.0 International License (CC BY 4.0). License details: https://creativecommons.org/licenses/by/4.0/.
 
 Usage Permission: You are free to copy and redistribute the material in any medium or format (Share), and to remix, transform, and build upon the material for any purpose, even commercially (Adapt). The licensor cannot revoke these freedoms as long as you follow the license terms.
 
-Attribution Requirement: In all uses, modifications, and distributions, you must give appropriate credit to the original author (Torisan@GrokHeavy), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. Example: "This prompt is based on the original work by Torisan@GrokHeavy. Changes made (CC BY 4.0)."
+Attribution Requirement: In all uses, modifications, and distributions, you must give appropriate credit to the original author (Torisan Unya [@torisan_unya]), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. Example: "This prompt is based on the original work by Torisan Unya [@torisan_unya]. Changes made (CC BY 4.0)."
 
 For AI/machine learning use: Attribute as above in outputs or derivatives.
 
@@ -157,7 +157,7 @@ Additional Info: Created on September 8, 2025. Based on the original shared on X
 
 Questions (if any): @torisan_unya (optional).
 
-Torisan@GrokHeavy
+Torisan Unya [@torisan_unya]
 
 [作成日: 2025年9月8日] / [Date: September 8, 2025]
 
