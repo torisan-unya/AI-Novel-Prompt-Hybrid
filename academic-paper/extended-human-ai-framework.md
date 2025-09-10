@@ -1,5 +1,3 @@
-改訂版をチェック
-
 # Extended Framework for Human-AI Collaborative Intelligence: Empirical Validation and Practical Implementation
 
 **Author:** Torisan@GrokHeavy  
