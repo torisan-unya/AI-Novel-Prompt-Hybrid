@@ -24,8 +24,8 @@ All original works in this repository are licensed under the [Creative Commons A
 
 When using any material, please provide the following credit:
 
-**Credit: Torisan@GrokHeavy**
+**Credit: Torisan Unya [@torisan_unya]**
 
 ## Author
 
-**Torisan@GrokHeavy**
+**Torisan Unya [@torisan_unya]**
