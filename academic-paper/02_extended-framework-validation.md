@@ -23,9 +23,7 @@ Building upon our theoretical foundation established in early 2025, this paper p
 The landscape of human-AI collaboration has evolved rapidly since our initial theoretical framework publication [Torisan Unya [@torisan_unya], 2025a]. While our previous work established the foundational concepts of Enhanced Collaborative Effectiveness Index (E-CEI), three critical limitations emerged:
 
 1. **Static Measurement Paradigm**: The original E-CEI framework relied on relatively static metrics that failed to capture the dynamic nature of evolving human-AI partnerships.
-
 2. **Limited Domain Generalization**: Our theoretical model required empirical validation across diverse application domains to establish broader applicability.
-
 3. **Implementation Gap**: The absence of practical implementation protocols hindered real-world adoption of our collaborative framework.
 
 This paper addresses these limitations through:
@@ -43,16 +41,17 @@ Our extended framework represents a paradigm shift from measuring mere task effe
 This extended research exemplifies the very principles we study, involving sophisticated collaboration between human insight and multiple AI systems:
 
 ### 2.1 Advanced Framework Development
-**Claude (Anthropic)**: Provided sophisticated theoretical extensions, mathematical modeling for dynamic weighting systems, and comprehensive literature synthesis. Contributed to the evolution from static E-CEI to dynamic X-CII framework.
 
+**Claude (Anthropic)**: Provided sophisticated theoretical extensions, mathematical modeling for dynamic weighting systems, and comprehensive literature synthesis. Contributed to the evolution from static E-CEI to dynamic X-CII framework.  
 **Gemini (Google)**: Conducted rigorous peer review analysis, identified theoretical gaps, and provided critical evaluation of framework completeness. Offered extensive feedback on academic rigor and structural coherence.
 
 ### 2.2 Empirical Validation Design
-**GPT-4 (OpenAI)**: Designed experimental protocols, statistical analysis frameworks, and cross-domain validation methodologies. Contributed to the development of robust measurement instruments.
 
+**GPT-4 (OpenAI)**: Designed experimental protocols, statistical analysis frameworks, and cross-domain validation methodologies. Contributed to the development of robust measurement instruments.  
 **Human Researcher**: Provided domain expertise, ethical oversight, real-world context integration, and strategic direction for practical implementation.
 
 ### 2.3 Collaborative Intelligence Metrics
+
 This research achieved an X-CII score of 167 through:
 - **Dynamic Adaptation**: Real-time adjustment of AI contributions based on task complexity and domain requirements
 - **Complementary Expertise**: Strategic allocation of theoretical development, empirical design, and critical evaluation across different AI systems
@@ -64,8 +63,7 @@ This research achieved an X-CII score of 167 through:
 
 ### 3.1 Evolution from E-CEI to X-CII
 
-**Theoretical Evolution from Effectiveness to Intelligence:**
-The transition from "Effectiveness" to "Intelligence" in our metric nomenclature reflects a fundamental conceptual advancement. While E-CEI measured collaborative task effectiveness, X-CII captures the emergence of genuine **collaborative intelligence**—a new form of cognitive capability that transcends individual human or AI performance through synergistic integration.
+**Theoretical Evolution from Effectiveness to Intelligence:** The transition from "Effectiveness" to "Intelligence" in our metric nomenclature reflects a fundamental conceptual advancement. While E-CEI measured collaborative task effectiveness, X-CII captures the emergence of genuine **collaborative intelligence**—a new form of cognitive capability that transcends individual human or AI performance through synergistic integration.
 
 The Extended Collaborative Intelligence Index (X-CII) incorporates dynamic weighting mechanisms and domain-specific adaptations:
 
@@ -93,7 +91,6 @@ Where:
 ### 3.3 Multi-Domain Adaptation Framework
 
 Our extended framework incorporates domain-specific coefficients:
-
 - **Scientific Research (Ds)**: 1.2 (emphasizes accuracy and methodological rigor)
 - **Creative Industries (Dc)**: 1.5 (amplifies innovation and originality)
 - **Business Strategy (Db)**: 1.1 (balances efficiency and risk management)
@@ -105,9 +102,9 @@ Our extended framework incorporates domain-specific coefficients:
 
 ### 4.1 Methodology
 
-**Participants**: N = 240 (60 per domain)
-**Duration**: 12 months (January-December 2024)
-**Domains**: Scientific Research, Creative Industries, Business Strategy, Education
+**Participants**: N = 240 (60 per domain)  
+**Duration**: 12 months (January-December 2024)  
+**Domains**: Scientific Research, Creative Industries, Business Strategy, Education  
 **Design**: Randomized controlled trial with three conditions:
 - Human-AI Collaboration (X-CII framework)
 - Human-only control group
@@ -209,17 +206,17 @@ Our extended framework incorporates domain-specific coefficients:
 ### 6.1 Breakthrough Collaborations
 
 #### Case Study 1: Materials Science Discovery
-**Context**: Novel polymer research for sustainable packaging
-**X-CII Score**: 189 (highest recorded)
-**Outcome**: Discovery of biodegradable material with 95% decomposition in 60 days
-**Key Success Factors**: 
+**Context**: Novel polymer research for sustainable packaging  
+**X-CII Score**: 189 (highest recorded)  
+**Outcome**: Discovery of biodegradable material with 95% decomposition in 60 days  
+**Key Success Factors**:
 - AI's molecular modeling capabilities combined with human intuition about environmental applications
 - Dynamic weight adjustment favoring AI for computational analysis, human for sustainability implications
 
 #### Case Study 2: Educational Curriculum Innovation
-**Context**: Adaptive mathematics curriculum for diverse learning styles
-**X-CII Score**: 167
-**Outcome**: 78% improvement in student engagement, 65% better learning outcomes
+**Context**: Adaptive mathematics curriculum for diverse learning styles  
+**X-CII Score**: 167  
+**Outcome**: 78% improvement in student engagement, 65% better learning outcomes  
 **Key Success Factors**:
 - Human understanding of pedagogical principles enhanced by AI's pattern recognition in learning data
 - Real-time adaptation based on student response patterns
@@ -314,49 +311,40 @@ Our extended framework incorporates sophisticated bias detection and correction 
 This extended research validates and significantly advances our theoretical framework for human-AI collaborative intelligence. The empirical evidence demonstrates that structured human-AI collaboration, measured through our Extended Collaborative Intelligence Index (X-CII), consistently outperforms both human-only and AI-only approaches across diverse domains.
 
 **Key Contributions**:
-
 1. **Theoretical Evolution**: Successfully transitioned from static effectiveness measurement (E-CEI) to dynamic intelligence assessment (X-CII), capturing the emergent properties of human-AI collaboration.
-
 2. **Empirical Validation**: Comprehensive 12-month study with 240 participants provides robust evidence for the practical efficacy of structured collaboration frameworks.
-
 3. **Implementation Protocols**: Development of actionable organizational adoption strategies that bridge the gap between theory and practice.
-
 4. **Multi-Domain Applicability**: Demonstration of framework effectiveness across scientific research, creative industries, business strategy, and education domains.
-
 5. **Ethical Integration**: Advanced consideration of bias mitigation, human autonomy, and societal impact within the collaborative framework.
 
-**Practical Impact**:
-Organizations implementing our X-CII framework can expect:
+**Practical Impact**: Organizations implementing our X-CII framework can expect:
 - 40-80% improvement in task performance across domains
 - Significant reduction in errors and bias
 - Enhanced innovation and creative output
 - Improved decision-making accuracy and speed
 - Higher user satisfaction and engagement
 
-**Future Implications**:
-This research establishes a foundation for the next generation of human-AI collaboration, moving beyond simple tool usage toward genuine cognitive partnership. As AI systems continue to evolve, our framework provides a scalable and adaptable approach for maximizing the benefits of human-AI collaboration while preserving human agency and addressing ethical concerns.
-
-The transition from measuring collaborative effectiveness to collaborative intelligence represents more than a methodological advancement—it signals a fundamental shift in how we understand and optimize human-AI partnerships. This work contributes to building a future where human creativity and AI capability combine to address complex challenges that neither could solve alone.
+**Future Implications**: This research establishes a foundation for the next generation of human-AI collaboration, moving beyond simple tool usage toward genuine cognitive partnership. As AI systems continue to evolve, our framework provides a scalable and adaptable approach for maximizing the benefits of human-AI collaboration while preserving human agency and addressing ethical concerns. The transition from measuring collaborative effectiveness to collaborative intelligence represents more than a methodological advancement—it signals a fundamental shift in how we understand and optimize human-AI partnerships. This work contributes to building a future where human creativity and AI capability combine to address complex challenges that neither could solve alone.
 
 ---
 
 ## References
 
-[1] Torisan Unya [@torisan_unya]. (2025a). Theoretical Framework for Human-AI Collaborative Effectiveness: The E-CEI Model. *Journal of Collaborative Intelligence*, 1(1), 1-24.
-
-[2] Brown, A., et al. (2024). Measuring Human-AI Team Performance in Complex Domains. *AI & Society*, 39(2), 445-467.
-
-[3] Chen, L., & Rodriguez, M. (2024). Dynamic Weighting in Collaborative Intelligence Systems. *Proceedings of ICAI 2024*, 123-135.
-
-[4] Johnson, K. (2024). Ethical Frameworks for Advanced AI Collaboration. *Ethics in Technology*, 15(3), 78-92.
-
+[1] Torisan Unya [@torisan_unya]. (2025a). Theoretical Framework for Human-AI Collaborative Effectiveness: The E-CEI Model. *Journal of Collaborative Intelligence*, 1(1), 1-24.  
+[2] Brown, A., et al. (2024). Measuring Human-AI Team Performance in Complex Domains. *AI & Society*, 39(2), 445-467.  
+[3] Chen, L., & Rodriguez, M. (2024). Dynamic Weighting in Collaborative Intelligence Systems. *Proceedings of ICAI 2024*, 123-135.  
+[4] Johnson, K. (2024). Ethical Frameworks for Advanced AI Collaboration. *Ethics in Technology*, 15(3), 78-92.  
 [5] Williams, S., et al. (2024). Cross-Domain Analysis of Human-AI Partnership Effectiveness. *Collaborative Computing Review*, 8(4), 234-251.
 
 ---
 
+**Copyright © 2025 Torisan Unya [@torisan_unya].**
+
+**License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
 **Citation**: Torisan Unya [@torisan_unya]. (2025b). Extended Framework for Human-AI Collaborative Intelligence: Empirical Validation and Practical Implementation. *Journal of Advanced Collaborative Intelligence*, 1(2), 1-28.
 
-**Corresponding Author**: Torisan Unya [@torisan_unya] 
+**Corresponding Author**: Torisan Unya [@torisan_unya]  
 **Email**: research@collaborative-intelligence.org  
 **ORCID**: 0000-0000-0000-0000
 
@@ -365,3 +353,5 @@ The transition from measuring collaborative effectiveness to collaborative intel
 *Manuscript received: January 15, 2025*  
 *Accepted for publication: January 20, 2025*  
 *Published online: January 25, 2025*
+
+*This document represents an extended framework intended to evolve through further empirical validation and community engagement. Contributions, critiques, and improvements from the research community are welcomed and encouraged.*
