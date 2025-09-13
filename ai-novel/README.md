@@ -35,8 +35,7 @@ This is a personal project. **No inquiries, collaborations, or feedback accepted
    - **Full Novel**: Generate 10-20 chapters with layered structure (introduction-climax-resolution).
    - **Example Output**: **See the one-shot generated sample in [ai-novel/examples/ai-novelAI-Novel-Prompt-Hybrid-generated-sample-crimson-roar-descent-one-shot.md](examples/ai-novelAI-Novel-Prompt-Hybrid-generated-sample-crimson-roar-descent-one-shot.md). This ~2500-word SF short story ("The Crimson Roar of Mars - Trial of Descent") demonstrates the framework's strengths: realistic Mars threats (dust storm at 35m/s winds), logical countermeasures (AI recalculation to 89% survival), and emotion-driven landscapes (anxiety turns haze into "choking" dread). Generated via AI Proposal Mode from a rough idea—no edits, no gaps, full coherence (>95%), and reader-nodding plausibility ("this could happen"). Ideal for testing psychological immersion and multimodal sensory details.**
 
-## License
-- CC BY 4.0: Attribute as "Based on AI-Novel-Prompt-Hybrid by torisan-unya" for use, modification, and distribution. See [LICENSE](https://creativecommons.org/licenses/by/4.0/) for details.
+- **License**: CC BY-SA 4.0 (attribution required; modification and distribution allowed under the same license). Licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 - Prohibited: Claiming as "own original" or using without attribution. Misuse may lead to usage termination.
 
 ## Notes
