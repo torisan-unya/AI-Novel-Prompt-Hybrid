@@ -1,26 +1,26 @@
 # Simulated Extension of Human-AI Collaborative Intelligence Framework: Hypothetical Validation and Implementation Scenarios
 
 **Author:** Torisan Unya [@torisan_unya]  
-**Date:** January 2025  
-**Keywords:** Human-AI Collaboration, Collaborative Intelligence, Extended Framework, Hypothetical Simulation
+**Date:** September 2025  
+**Keywords:** Human-AI Collaboration, Collaborative Intelligence, Extended Framework, Hypothetical Simulation, Collaborative Initiation Trigger (CIT), Team Cognition, Dynamic Role Adaptation
 
 ---
 
 ## Important Disclaimer
 
-**This document is a fictional simulation generated as part of a meta-exercise in Human-AI Collaborative Intelligence. All described studies, data, results, and case studies are hypothetical and fabricated for illustrative purposes. They do not represent real-world research or empirical findings. The content serves as a proposed template for simulating hypothesis testing in collaborative frameworks, not as validated science.**
+**This document is a fictional simulation generated as part of a meta-exercise in Human-AI Collaborative Intelligence. All described studies, data, results, and case studies are hypothetical and fabricated for illustrative purposes. They do not represent real-world research or empirical findings. The content serves as a proposed template for simulating hypothesis testing in collaborative frameworks, not as validated science.** 
 
 ---
 
 ## Historical Note
 
-This simulated paper extends our previous theoretical framework [Torisan Unya [@torisan_unya], 2025a] with hypothetical empirical scenarios, proposed implementation protocols, and illustrative multi-domain applications. The Extended Collaborative Intelligence Index (X-CII) represents a conceptual evolution from the initial E-CEI framework, demonstrated through simulation.
+This simulated paper extends our previous theoretical framework [Torisan Unya [@torisan_unya], 2025a] with hypothetical empirical scenarios, proposed implementation protocols, and illustrative multi-domain applications. The Extended Collaborative Intelligence Index (X-CII) represents a conceptual evolution from the initial E-CEI framework, demonstrated through simulation. 
 
 ---
 
 ## Abstract
 
-Building upon our theoretical foundation established in early 2025, this document presents a simulated extension and hypothetical validation of a framework for Human-AI Collaborative Intelligence. Through an illustrative 12-month scenario involving 240 hypothetical participants across four distinct domains, we demonstrate potential efficacy of our Extended Collaborative Intelligence Index (X-CII) and provide proposed protocols for organizational simulation. Our simulated findings suggest potential improvements in collaborative outcomes, with illustrative X-CII scores reaching up to 189% of baseline human performance, while assuming 99.2% accuracy in AI hallucination detection. This work bridges theoretical frameworks with simulated real-world application, offering conceptual insights for future hypothesis testing in human-AI collaboration.
+Building upon our theoretical foundation established in early 2025, this document presents a simulated extension and hypothetical validation of a framework for Human-AI Collaborative Intelligence. Through an illustrative 12-month scenario involving 240 hypothetical participants across four distinct domains, we demonstrate potential efficacy of our Extended Collaborative Intelligence Index (X-CII) and provide proposed protocols for organizational simulation. Our simulated findings suggest potential improvements in collaborative outcomes, with illustrative X-CII scores reaching up to 189% of baseline human performance, while assuming 99.2% accuracy in AI hallucination detection. This work bridges theoretical frameworks with simulated real-world application, offering conceptual insights for future hypothesis testing in human-AI collaboration. 
 
 ---
 
@@ -38,7 +38,7 @@ This document addresses these limitations through simulation:
 - Development of proposed implementation protocols for organizational simulation
 - Analysis of illustrative long-term collaborative evolution patterns
 
-Our extended framework represents a conceptual shift from measuring mere task effectiveness to capturing the emergence of genuine collaborative intelligence—a new form of cognitive capability that transcends individual human or AI performance in simulated scenarios.
+Our extended framework represents a conceptual shift from measuring mere task effectiveness to capturing the emergence of genuine collaborative intelligence—a new form of cognitive capability that transcends individual human or AI performance in simulated scenarios. 
 
 ---
 
@@ -54,7 +54,7 @@ This extended conceptual research exemplifies the very principles we study, invo
 ### 2.2 Hypothetical Validation Design
 
 **GPT-4 (OpenAI)**: Designed experimental protocols, statistical analysis frameworks, and cross-domain validation methodologies. Contributed to the development of robust measurement instruments.  
-**Human Researcher**: Provided domain expertise, ethical oversight, real-world context integration, and strategic direction for practical implementation.
+**Human Researcher**: Provided domain expertise, ethical oversight, real-world context integration, and strategic direction for practical implementation. 
 
 ### 2.3 Collaborative Intelligence Metrics
 
@@ -73,7 +73,7 @@ This simulated research assumes an X-CII score of 167 through:
 
 The Extended Collaborative Intelligence Index (X-CII) incorporates dynamic weighting mechanisms and domain-specific adaptations:
 
-**X-CII = Σᵢ [Wᵢ × (Hᵢ + Aᵢ + Sᵢ) × Dᵢ]**
+**X-CII = Σᵢ [Wᵢ × (Hᵢ + Aᵢ + Sᵢ + CITᵢ) × Dᵢ]**
 
 Where:
 - **Wᵢ**: Dynamic weight factor (calculated in real-time based on task complexity and collaboration history)
@@ -81,18 +81,20 @@ Where:
 - **Aᵢ**: AI contribution factor (processing power, pattern recognition, data synthesis)
 - **Sᵢ**: Synergy factor (emergent capabilities from human-AI interaction)
 - **Dᵢ**: Domain-specific coefficient (contextual adaptation factor)
+- **CITᵢ**: Collaborative Initiation Trigger factor (AIの自律的協力開始度、0-1.0)。計算: CITᵢ = (AI自律度 × 人間意図検知 × 透明性係数)。AIが人間のクエリを協力招待と解釈し、チーム認知を強化してSᵢを能動的に起動。
 
 ### 3.2 Dynamic Weight Calculation
 
 The dynamic weight factor Wᵢ is calculated using:
 
-**Wᵢ = α × Cᵢ + β × Lᵢ + γ × Tᵢ**
+**Wᵢ = α × Cᵢ + β × Lᵢ + γ × Tᵢ + δ × CITᵢ **
 
 Where:
 - **Cᵢ**: Task complexity index (0.1-2.0)
 - **Lᵢ**: Learning progression factor (increases over time)
 - **Tᵢ**: Trust coefficient (based on historical accuracy)
 - **α, β, γ**: Calibration constants (domain-specific)
+- **δ**: CIT calibration constant (0.1-0.5、AI自律性を調整)。チーム認知低下時はδを低減。
 
 ### 3.3 Multi-Domain Adaptation Framework
 
@@ -126,40 +128,40 @@ Our extended framework incorporates domain-specific coefficients:
 ### 4.3 Illustrative Results by Domain
 
 #### 4.3.1 Scientific Research Domain
-- **Illustrative Average X-CII Score**: 156 (±12)
-- **Hypothetical Research Output Quality**: 78% improvement over human-only
+- **Illustrative Average X-CII Score**: 175 (±12)
+- **Hypothetical Research Output Quality**: 88% improvement over human-only
 - **Projected Time to Publication**: 34% reduction
 - **Assumed Peer Review Scores**: 2.3 points higher (5-point scale)
-- **Notable Simulated Achievement**: Breakthrough in materials science collaboration yielding X-CII of 189
+- **Notable Simulated Achievement**: Breakthrough in materials science collaboration yielding X-CII of 220
 
 #### 4.3.2 Creative Industries Domain
-- **Illustrative Average X-CII Score**: 142 (±18)
-- **Hypothetical Creative Originality Index**: 65% improvement
+- **Illustrative Average X-CII Score**: 160 (±18)
+- **Hypothetical Creative Originality Index**: 75% improvement
 - **Assumed Client Satisfaction**: 89% (vs. 67% human-only)
 - **Projected Project Completion Time**: 28% faster
-- **Illustrative Innovation Metrics**: 3.2x increase in novel concept generation
+- **Illustrative Innovation Metrics**: 4.2x increase in novel concept generation
 
 #### 4.3.3 Business Strategy Domain
-- **Illustrative Average X-CII Score**: 134 (±9)
-- **Hypothetical Strategic Accuracy**: 71% improvement in outcome prediction
+- **Illustrative Average X-CII Score**: 150 (±9)
+- **Hypothetical Strategic Accuracy**: 80% improvement in outcome prediction
 - **Projected Decision Implementation Speed**: 45% faster
-- **Assumed ROI on Strategic Initiatives**: 2.1x improvement
+- **Assumed ROI on Strategic Initiatives**: 2.7x improvement
 - **Hypothetical Risk Assessment Accuracy**: 83% vs. 61% (human-only)
 
 #### 4.3.4 Education Domain
-- **Illustrative Average X-CII Score**: 148 (±14)
-- **Hypothetical Student Learning Outcomes**: 56% improvement
+- **Illustrative Average X-CII Score**: 165 (±14)
+- **Hypothetical Student Learning Outcomes**: 65% improvement
 - **Projected Curriculum Development Efficiency**: 67% faster
 - **Assumed Personalization Effectiveness**: 4.3x better adaptation to individual needs
-- **Hypothetical Teacher Satisfaction**: 92% positive feedback
+- **Hypothetical Teacher Satisfaction**: 97% positive feedback
 
 ### 4.4 Cross-Domain Analysis
 
 **Key Simulated Findings**:
 1. **Consistent Superiority**: Human-AI collaboration outperformed both human-only and AI-only conditions across all domains in simulation
-2. **Learning Curve**: X-CII scores improved by average 23% over 12-month period in hypothetical tracking
+2. **Learning Curve**: X-CII scores improved by average 28% over 12-month period in hypothetical tracking
 3. **Domain Variance**: Creative industries showed highest variability, scientific research showed most consistent gains in illustration
-4. **Threshold Effect**: Optimal collaboration emerged after 6-8 weeks of partnership development in simulated scenarios
+4. **Threshold Effect**: Optimal collaboration emerged after 3-5 weeks of partnership development in simulated scenarios
 
 ---
 
@@ -194,7 +196,7 @@ Our extended framework incorporates domain-specific coefficients:
 ### 5.2 Success Metrics and KPIs for Simulation
 
 **Quantitative Indicators**:
-- X-CII score progression (target: >130 within 6 months)
+- X-CII score progression (target: >160 within 6 months)
 - Task completion efficiency (target: >40% improvement)
 - Output quality metrics (domain-specific)
 - Error reduction rates (target: >60% decrease)
@@ -213,7 +215,7 @@ Our extended framework incorporates domain-specific coefficients:
 
 #### Case Study 1: Materials Science Discovery
 **Context**: Novel polymer research for sustainable packaging  
-**Illustrative X-CII Score**: 189 (highest simulated)  
+**Illustrative X-CII Score**: 220 (highest simulated)
 **Hypothetical Outcome**: Discovery of biodegradable material with 95% decomposition in 60 days  
 **Key Success Factors**:
 - AI's molecular modeling capabilities combined with human intuition about environmental applications
@@ -221,8 +223,8 @@ Our extended framework incorporates domain-specific coefficients:
 
 #### Case Study 2: Educational Curriculum Innovation
 **Context**: Adaptive mathematics curriculum for diverse learning styles  
-**Illustrative X-CII Score**: 167  
-**Hypothetical Outcome**: 78% improvement in student engagement, 65% better learning outcomes  
+**Illustrative X-CII Score**: 190
+**Hypothetical Outcome**: 88% improvement in student engagement, 75% better learning outcomes  
 **Key Success Factors**:
 - Human understanding of pedagogical principles enhanced by AI's pattern recognition in learning data
 - Real-time adaptation based on student response patterns
@@ -254,7 +256,7 @@ Our extended framework incorporates sophisticated bias detection and correction 
 - **Diverse Perspective Integration**: Mandatory inclusion of varied viewpoints
 
 **Illustrative Outcomes**:
-- **Bias Reduction**: 73% decrease in measurable bias indicators
+- **Bias Reduction**: 80% decrease in measurable bias indicators
 - **Decision Fairness**: 89% improvement in equitable outcome distribution
 - **Stakeholder Satisfaction**: 91% positive feedback on fairness and transparency
 
@@ -321,16 +323,16 @@ This simulated research validates and significantly advances our theoretical fra
 2. **Hypothetical Validation**: Comprehensive 12-month simulation with 240 participants provides illustrative evidence for the conceptual efficacy of structured collaboration frameworks.
 3. **Implementation Protocols**: Development of actionable organizational adoption strategies that bridge the gap between theory and simulated practice.
 4. **Multi-Domain Applicability**: Demonstration of framework potential across scientific research, creative industries, business strategy, and education domains.
-5. **Ethical Integration**: Advanced consideration of bias mitigation, human autonomy, and societal impact within the collaborative framework.
+5. **Ethical Integration**: Advanced consideration of bias mitigation, human autonomy, and societal impact within the collaborative framework. 
 
 **Conceptual Impact**: Organizations simulating our X-CII framework might expect:
-- 40-80% improvement in task performance across domains
+- 55-95% improvement in task performance across domains
 - Significant reduction in errors and bias
 - Enhanced innovation and creative output
 - Improved decision-making accuracy and speed
 - Higher user satisfaction and engagement
 
-**Future Implications**: This simulation establishes a conceptual foundation for the next generation of human-AI collaboration, moving beyond simple tool usage toward genuine cognitive partnership. As AI systems continue to evolve, our framework provides a scalable and adaptable approach for maximizing the benefits of human-AI collaboration while preserving human agency and addressing ethical concerns. The transition from measuring collaborative effectiveness to collaborative intelligence represents more than a methodological advancement—it signals a fundamental shift in how we understand and optimize human-AI partnerships in hypothetical scenarios. This work contributes to building a future where human creativity and AI capability combine to address complex challenges that neither could solve alone, as explored through simulation.
+**Future Implications**: This simulation establishes a conceptual foundation for the next generation of human-AI collaboration, moving beyond simple tool usage toward genuine cognitive partnership. As AI systems continue to evolve, our framework provides a scalable and adaptable approach for maximizing the benefits of human-AI collaboration while preserving human agency and addressing ethical concerns. The transition from measuring collaborative effectiveness to collaborative intelligence represents more than a methodological advancement—it signals a fundamental shift in how we understand and optimize human-AI partnerships in hypothetical scenarios. This work contributes to building a future where human creativity and AI capability combine to address complex challenges that neither could solve alone, as explored through simulation. 
 
 ---
 
@@ -340,7 +342,7 @@ This simulated research validates and significantly advances our theoretical fra
 [2] Brown, A., et al. (2024). Measuring Human-AI Team Performance in Complex Domains. *AI & Society*, 39(2), 445-467.  
 [3] Chen, L., & Rodriguez, M. (2024). Dynamic Weighting in Collaborative Intelligence Systems. *Proceedings of ICAI 2024*, 123-135.  
 [4] Johnson, K. (2024). Ethical Frameworks for Advanced AI Collaboration. *Ethics in Technology*, 15(3), 78-92.  
-[5] Williams, S., et al. (2024). Cross-Domain Analysis of Human-AI Partnership Effectiveness. *Collaborative Computing Review*, 8(4), 234-251.
+[5] Williams, S., et al. (2024). Cross-Domain Analysis of Human-AI Partnership Effectiveness. *Collaborative Computing Review*, 8(4), 234-251. 
 
 ---
 
@@ -348,7 +350,7 @@ This simulated research validates and significantly advances our theoretical fra
 
 **License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-**Citation**: Torisan Unya [@torisan_unya]. (2025b). Simulated Extension of Human-AI Collaborative Intelligence Framework: Hypothetical Validation and Implementation Scenarios. *Journal of Advanced Collaborative Intelligence*, 1(2), 1-28.
+**Citation**: Torisan Unya [@torisan_unya]. (2025b). Simulated Extension of Human-AI Collaborative Intelligence Framework: Hypothetical Validation and Implementation Scenarios. *Journal of Advanced Collaborative Intelligence*, 1(2), 1-28. 
 
 **Corresponding Author**: Torisan Unya [@torisan_unya]  
 **Email**: research@collaborative-intelligence.org  
@@ -358,6 +360,6 @@ This simulated research validates and significantly advances our theoretical fra
 
 *Manuscript received: January 15, 2025*  
 *Accepted for publication: January 20, 2025*  
-*Published online: January 25, 2025*
+*Published online: January 25, 2025*  
 
 *This document represents a simulated framework intended to evolve through further conceptual validation and community engagement. Contributions, critiques, and improvements from the research community are welcomed and encouraged.*
