@@ -23,7 +23,7 @@ This directory contains a series of research papers on Human-AI Collaborative In
 *   **Filename:** [01_theoretical-framework.md](01_theoretical-framework.md)
 *   **Title:** *Human-AI Creative Collaboration: A Theoretical Framework for Synergistic Innovation*
 *   **Summary:**
-    This first paper proposes the "Enhanced Collaborative Effectiveness Index (E-CEI)" as a foundational theoretical framework for evaluating human-AI creative collaboration. It serves as the theoretical basis for the subsequent research. (Updated with references to real-time AI collaboration examples from X discussions.)
+    This first paper proposes the "Enhanced Collaborative Effectiveness Index (E-CEI)" as a foundational theoretical framework for evaluating human-AI creative collaboration. It serves as the theoretical basis for the subsequent research. 
 
 ### 2. Extended Framework & Empirical Validation
 
