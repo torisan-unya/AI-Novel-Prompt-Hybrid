@@ -20,7 +20,7 @@ This directory contains a series of research papers on Human-AI Collaborative In
 
 ### 1. Theoretical Framework
 
-*   **Filename:** `[01_theoretical-framework.md](01_theoretical-framework.md)`
+*   **Filename:** [01_theoretical-framework.md](01_theoretical-framework.md)
 *   **Title:** *Human-AI Creative Collaboration: A Theoretical Framework for Synergistic Innovation*
 *   **Summary:**
     This first paper proposes the "Enhanced Collaborative Effectiveness Index (E-CEI)" as a foundational theoretical framework for evaluating human-AI creative collaboration. It serves as the theoretical basis for the subsequent research. (Updated with references to real-time AI collaboration examples from X discussions.)
@@ -38,8 +38,8 @@ This directory contains a series of research papers on Human-AI Collaborative In
 
 These papers represent a continuous line of research. To best understand the overall scope of the project, we recommend reading them in the following order:
 
-1.  `[01_theoretical-framework.md](01_theoretical-framework.md)` (To understand the theoretical foundation, including E-CEI metrics)
-2.  `[02_extended-framework-validation.md](02_extended-framework-validation.md)` (For the extension of the theory to X-CII, its hypothetical validation, and practical implementation protocols)
+1.  [01_theoretical-framework.md](01_theoretical-framework.md) (To understand the theoretical foundation, including E-CEI metrics)
+2.  [02_extended-framework-validation.md](02_extended-framework-validation.md) (For the extension of the theory to X-CII, its hypothetical validation, and practical implementation protocols)
 
 For further exploration, check the GitHub repository: [AI-Novel-Prompt-Hybrid/academic-paper](https://github.com/torisan-unya/AI-Novel-Prompt-Hybrid/tree/main/academic-paper), where foundational updates are shared.
 
