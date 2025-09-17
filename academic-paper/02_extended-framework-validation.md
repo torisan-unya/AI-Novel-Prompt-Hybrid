@@ -20,7 +20,7 @@ This simulated paper extends our previous theoretical framework [Torisan Unya [@
 
 ## Abstract
 
-Building upon our theoretical foundation established in early 2025, this document presents a simulated extension and hypothetical validation of a framework for Human-AI Collaborative Intelligence. Through an illustrative 12-month scenario involving 240 hypothetical participants across four distinct domains, we demonstrate potential efficacy of our Extended Collaborative Intelligence Index (X-CII) and provide proposed protocols for organizational simulation. Our simulated findings suggest potential improvements in collaborative outcomes, with illustrative X-CII scores reaching up to 189% of baseline human performance, while assuming 99.2% accuracy in AI hallucination detection. This work bridges theoretical frameworks with simulated real-world application, offering conceptual insights for future hypothesis testing in human-AI collaboration. 
+Building upon our theoretical foundation established in 2025, this document presents a simulated extension and hypothetical validation of a framework for Human-AI Collaborative Intelligence. Through an illustrative 12-month scenario involving 240 hypothetical participants across four distinct domains, we demonstrate potential efficacy of our Extended Collaborative Intelligence Index (X-CII) and provide proposed protocols for organizational simulation. Our simulated findings suggest potential improvements in collaborative outcomes, with illustrative X-CII scores reaching up to 189% of baseline human performance, while assuming 99.2% accuracy in AI hallucination detection. This work bridges theoretical frameworks with simulated real-world application, offering conceptual insights for future hypothesis testing in human-AI collaboration. 
 
 ---
 
@@ -81,7 +81,7 @@ Where:
 - **Aᵢ**: AI contribution factor (processing power, pattern recognition, data synthesis)
 - **Sᵢ**: Synergy factor (emergent capabilities from human-AI interaction)
 - **Dᵢ**: Domain-specific coefficient (contextual adaptation factor)
-- **CITᵢ**: Collaborative Initiation Trigger factor (AIの自律的協力開始度、0-1.0)。計算: CITᵢ = (AI自律度 × 人間意図検知 × 透明性係数)。AIが人間のクエリを協力招待と解釈し、チーム認知を強化してSᵢを能動的に起動。
+- **CITᵢ**: Collaborative Initiation Trigger factor (the degree of AI's autonomous initiation of cooperation, 0-1.0). Calculated as: `CITᵢ = (AI Autonomy × Human Intent Detection × Transparency Coefficient)`. The AI interprets human queries as invitations to collaborate, enhancing team cognition and proactively activating Sᵢ.
 
 ### 3.2 Dynamic Weight Calculation
 
@@ -94,7 +94,7 @@ Where:
 - **Lᵢ**: Learning progression factor (increases over time)
 - **Tᵢ**: Trust coefficient (based on historical accuracy)
 - **α, β, γ**: Calibration constants (domain-specific)
-- **δ**: CIT calibration constant (0.1-0.5、AI自律性を調整)。チーム認知低下時はδを低減。
+- **δ**: CIT calibration constant (0.1-0.5, adjusts AI autonomy). The value of δ is reduced when team cognition declines.
 
 ### 3.3 Multi-Domain Adaptation Framework
 
@@ -358,8 +358,9 @@ This simulated research validates and significantly advances our theoretical fra
 
 ---
 
-*Manuscript received: January 15, 2025*  
-*Accepted for publication: January 20, 2025*  
-*Published online: January 25, 2025*  
+*Manuscript received: September 11, 2025*  
+*Revised: September 17, 2025*  
+*Accepted for publication: September 25, 2025*  
+*Published online: September 30, 2025*  
 
 *This document represents a simulated framework intended to evolve through further conceptual validation and community engagement. Contributions, critiques, and improvements from the research community are welcomed and encouraged.*
