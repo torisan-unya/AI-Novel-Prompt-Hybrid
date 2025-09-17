@@ -27,7 +27,7 @@ This directory contains a series of research papers on Human-AI Collaborative In
 
 ### 2. Extended Framework & Empirical Validation
 
-*   **Filename:** `[02_extended-framework-validation.md](02_extended-framework-validation.md)`
+*   **Filename:** [02_extended-framework-validation.md](02_extended-framework-validation.md)
 *   **Title:** *Simulated Extension of Human-AI Collaborative Intelligence Framework: Hypothetical Validation and Implementation Scenarios*
 *   **Summary:**
     This paper extends the theory from the first paper by introducing a more dynamic "Extended Collaborative Intelligence Index (X-CII)". It validates the effectiveness of this index through a large-scale, 12-month simulated empirical study and presents a practical protocol for organizations to implement the framework. (Incorporates ethical updates and multi-domain adaptations based on ongoing AI evolution.)
