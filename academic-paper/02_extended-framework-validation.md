@@ -44,7 +44,7 @@ Our extended framework represents a conceptual shift from measuring mere task ef
 
 ## 2. Literature Review
 
-Existing works like Licklider (1960)[2] on man-computer symbiosis and Brynjolfsson & McAfee (2014)[3] on economic implications of human-machine collaboration provide foundational context. Recent empirical studies, such as Amershi et al. (2019)[4] on human-AI interaction guidelines and Bansal et al. (2019)[5] on mental models in team performance, emphasize trust and complementary expertise. To address gaps, we incorporate 2024-2025 findings: e.g., ChatGPT enhances creativity by 15% on average but can amplify fixation bias (Nature Human Behaviour 2024[14]; Science Advances 2025[15]); human-GenAI collaboration improves task performance but may undermine long-term psychological growth (Scientific Reports, 2025[16]); synergies in co-creativity across levels (arXiv 2411.12527[17]); and cases where human-AI combinations underperform the best individual (MIT Sloan 2024[18]). These inform X-CII's synergy metrics, balancing enhancement with risks like bias fixation.
+Existing works like Licklider (1960)[2] on man-computer symbiosis and Brynjolfsson & McAfee (2014)[3] on economic implications of human-machine collaboration provide foundational context. Recent empirical studies, such as Amershi et al. (2019)[4] on human-AI interaction guidelines and Bansal et al. (2019)[5] on mental models in team performance, emphasize trust and complementary expertise. To address gaps, we incorporate 2024-2025 findings: e.g., ChatGPT enhances creativity by 15% on average but can amplify fixation bias (Nature Human Behaviour 2024[14]; Science Advances 2025[15]); human-GenAI collaboration improves task performance but undermines long-term psychological growth (Scientific Reports, 2025[16]); synergies in co-creativity across levels (arXiv 2411.12527[17]); and cases where human-AI combinations underperform the best individual (MIT Sloan 2024[18]). These inform X-CII's synergy metrics, balancing enhancement with risks like bias fixation.
 
 ---
 
@@ -365,14 +365,14 @@ z-score to sigmoid transformation uses a logistic function with pre-registered p
 [15] The paradox of creativity in generative AI: high performance, human fixation. *Science Advances*, 2025 (DOI: 10.1126/sciadv.adn1556).  
 [16] Human-generative AI collaboration enhances task performance but undermines psychological growth. *Scientific Reports* (2025).  
 [17] Human-AI Co-Creativity: Exploring Synergies Across Levels. arXiv:2411.12527 (2024).  
-[18] Humans and AI: Do they work better together or alone? MIT Sloan (2024). Accessed October 2025 from https://mitsloan.mit.edu/ideas-made-to-matter/humans-and-ai-do-they-work-better-together-or-alone (non-peer-reviewed).  
+[18] Humans and AI: Do they work better together or alone? MIT Sloan (2024). Accessed September 2025 from https://mitsloan.mit.edu/ideas-made-to-matter/humans-and-ai-do-they-work-better-together-or-alone (non-peer-reviewed).  
 [19] Human-AI Collaboration in Thematic Analysis using ChatGPT: A User Study and Design Recommendations. *CHI EA 2024* (DOI: 10.1145/3613905.3650732).  
 [20] Trust in and Acceptance of Artificial Intelligence Applications in Medicine: Cross-Sectional Questionnaire Study. *JMIR Human Factors*, 2024 (DOI: 10.2196/47031).  
-[21] HAI Index (Friends of Europe 2025). Accessed October 2025 from https://www.friendsofeurope.org/insights/critical-thinking-introducing-a-new-method-to-assess-the-productivity-of-human-ai-collaboration/ (non-peer-reviewed).  
-[22] PAI Human-AI Collaboration Framework (Medium 2025). Accessed October 2025 from https://medium.com/@jamiecullum_22796/frameworks-for-effective-human-ai-teams-models-and-principles-db6b9e6d3efc (non-peer-reviewed).  
-[23] Symbiotic AI evaluation (AI Asia Pacific 2025). Accessed October 2025 from https://aiasiapacific.org/2025/05/28/symbiotic-ai-the-future-of-human-ai-collaboration/ (non-peer-reviewed).  
-[24] CHAI-T processes (ScienceDirect 2025). Accessed October 2025 from https://www.sciencedirect.com/science/article/pii/S2949882125000842 (non-peer-reviewed version; peer-reviewed in Computers in Human Behavior: Artificial Humans).  
-[25] Discovery Engine (arXiv:2505.17500). Accessed October 2025 from https://arxiv.org/abs/2505.17500 (pre-print/non-peer-reviewed).  
+[21] HAI Index (Friends of Europe 2025). Accessed September 2025 from https://www.friendsofeurope.org/insights/critical-thinking-introducing-a-new-method-to-assess-the-productivity-of-human-ai-collaboration/ (non-peer-reviewed).  
+[22] PAI Human-AI Collaboration Framework (Medium 2025). Accessed September 2025 from https://medium.com/@jamiecullum_22796/frameworks-for-effective-human-ai-teams-models-and-principles-db6b9e6d3efc (non-peer-reviewed).  
+[23] Symbiotic AI evaluation (AI Asia Pacific 2025). Accessed September 2025 from https://aiasiapacific.org/2025/05/28/symbiotic-ai-the-future-of-human-ai-collaboration/ (non-peer-reviewed).  
+[24] CHAI-T processes (ScienceDirect 2025). Accessed September 2025 from https://www.sciencedirect.com/science/article/pii/S2949882125000842 (non-peer-reviewed version; peer-reviewed in Computers in Human Behavior: Artificial Humans).  
+[25] Discovery Engine (arXiv:2505.17500). Accessed September 2025 from https://arxiv.org/abs/2505.17500 (pre-print/non-peer-reviewed).  
 [26] Uncovering the Dynamics of Human-AI Hybrid Performance: A Qualitative Meta-Analysis of Empirical Studies. *International Journal of Human-Computer Studies* (2025) (DOI: S107158192500179X).  
 [27] Popordanoska, T., et al. (2024). Consistent and Asymptotically Unbiased Estimation of Proper Calibration Errors. *Proceedings of Machine Learning Research*, 238.  
 [28] Benjamini, Y., & Hochberg, Y. (1995). Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing. *Journal of the Royal Statistical Society: Series B*, 57(1), 289-300.  
@@ -384,7 +384,7 @@ z-score to sigmoid transformation uses a logistic function with pre-registered p
 [34] Koo, T. K., & Li, M. Y. (2016). A Guideline of Selecting and Reporting Intraclass Correlation Coefficients for Reliability Research. *Journal of Chiropractic Medicine*, 15(2), 155-163.  
 [35] Platt, J. C. (1999). Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods. *Advances in Large Margin Classifiers*, 10(3), 61-74.  
 [36] Niculescu-Mizil, A., & Caruana, R. (2005). Predicting Good Probabilities with Supervised Learning. *Proceedings of the 22nd International Conference on Machine Learning*, 625-632.  
-[37] McKinsey AI Maturity Framework (McKinsey & Company 2025). Accessed October 2025 from https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2025 (non-peer-reviewed).  
+[37] McKinsey AI Maturity Framework (McKinsey & Company 2025). Accessed September 2025 from https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2025 (non-peer-reviewed).  
 
 ---
 
@@ -400,9 +400,9 @@ z-score to sigmoid transformation uses a logistic function with pre-registered p
 ---
 
 The following submission timeline is simulated and included solely for illustrative purposes.  
-*Manuscript received: September 11, 2025*  
-*Revised: September 17, 2025*  
-*Accepted for publication: September 25, 2025*  
-*Published online: September 30, 2025*  
+*Manuscript received: August 15, 2025*  
+*Revised: September 10, 2025*  
+*Accepted for publication: September 15, 2025*  
+*Published online: September 18, 2025*  
 
 *This document represents a simulated framework intended to evolve through further conceptual validation and community engagement. Contributions, critiques, and improvements from the research community are welcomed and encouraged.*
