@@ -14,20 +14,20 @@ The purpose of this project is a **meta-exercise**: to demonstrate and explore t
 
 ---
 
-This directory contains a series of research papers on Human-AI Collaborative Intelligence. These papers cover the full scope from the construction of a theoretical framework to its empirical validation and practical application. Updated as of September 2025 to reflect framework evolutions and community feedback.
+This directory contains a series of research papers on Human-AI Collaborative Intelligence. These papers cover the full scope from the construction of a theoretical framework to its empirical validation and practical application. Updated as of September 17, 2025 to reflect framework evolutions and community feedback.
 
 ## Papers
 
 ### 1. Theoretical Framework
 
-*   **Filename:** `01_theoretical-framework.md`
+*   **Filename:** `[01_theoretical-framework.md](01_theoretical-framework.md)`
 *   **Title:** *Human-AI Creative Collaboration: A Theoretical Framework for Synergistic Innovation*
 *   **Summary:**
     This first paper proposes the "Enhanced Collaborative Effectiveness Index (E-CEI)" as a foundational theoretical framework for evaluating human-AI creative collaboration. It serves as the theoretical basis for the subsequent research. (Updated with references to real-time AI collaboration examples from X discussions.)
 
 ### 2. Extended Framework & Empirical Validation
 
-*   **Filename:** `02_extended-framework-validation.md`
+*   **Filename:** `[02_extended-framework-validation.md](02_extended-framework-validation.md)`
 *   **Title:** *Simulated Extension of Human-AI Collaborative Intelligence Framework: Hypothetical Validation and Implementation Scenarios*
 *   **Summary:**
     This paper extends the theory from the first paper by introducing a more dynamic "Extended Collaborative Intelligence Index (X-CII)". It validates the effectiveness of this index through a large-scale, 12-month simulated empirical study and presents a practical protocol for organizations to implement the framework. (Incorporates ethical updates and multi-domain adaptations based on ongoing AI evolution.)
@@ -38,8 +38,8 @@ This directory contains a series of research papers on Human-AI Collaborative In
 
 These papers represent a continuous line of research. To best understand the overall scope of the project, we recommend reading them in the following order:
 
-1.  `01_theoretical-framework.md` (To understand the theoretical foundation, including E-CEI metrics)
-2.  `02_extended-framework-validation.md` (For the extension of the theory to X-CII, its hypothetical validation, and practical implementation protocols)
+1.  `[01_theoretical-framework.md](01_theoretical-framework.md)` (To understand the theoretical foundation, including E-CEI metrics)
+2.  `[02_extended-framework-validation.md](02_extended-framework-validation.md)` (For the extension of the theory to X-CII, its hypothetical validation, and practical implementation protocols)
 
 For further exploration, check the GitHub repository: [AI-Novel-Prompt-Hybrid/academic-paper](https://github.com/torisan-unya/AI-Novel-Prompt-Hybrid/tree/main/academic-paper), where foundational updates are shared.
 
