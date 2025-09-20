@@ -2,6 +2,8 @@
 
 This repository serves as an archive for academic and creative explorations born from dialogues between a human and an AI.
 
+**Author:** Torisan Unya [@torisan_unya] (ORCID: https://orcid.org/0009-0004-7067-9765)
+
 ## About This Repository
 
 This space houses two main projects, both originating from an endeavor to treat AI not merely as a tool, but as a partner in thought and creation.
