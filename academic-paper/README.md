@@ -2,19 +2,22 @@
 
 **Author:** Torisan Unya [@torisan_unya]
 
+**Notice: Repository Archived**
+This repository has been frozen for further development. All historical files, including the academic-paper directory, remain available here for reference. For continued exploration and updates on the Human-AI Collaborative Intelligence (HAC) framework, including the latest X-CII developments, please visit the new repository: [awesome-hac-framework](https://github.com/torisan-unya/awesome-hac-framework).
+
 ---
 
 ### **Important Note**
 
 **The papers in this directory are fictional academic artifacts generated via Human-AI collaboration (involving the author and multiple AIs). All components—authors, affiliations, dates, data, results, references, and journal names—are fabricated for illustrative purposes. No real-world empirical claims are made.** This meta-exercise demonstrates the iterative evolution of collaborative frameworks, emphasizing ethical alignment, uncertainty handling (e.g., hallucination detection protocols with semantic entropy baseline, AUROC~0.75-0.85), axiomatic rigor, and fairness diagnostics as per X-CII principles.
 
-This meta-exercise explores "Human-AI Collaborative Intelligence" by demonstrating framework creation through dialogue. It evolves from theoretical foundations (E-CEI) to extensions (X-CII), simulation-based robustness, and axiomatic formalization with synthetic evaluation. For real-world analogs and updates, refer to the GitHub repository.
+This meta-exercise explores "Human-AI Collaborative Intelligence" by demonstrating framework creation through dialogue. It evolves from theoretical foundations (E-CEI) to extensions (X-CII), simulation-based robustness, and axiomatic formalization with synthetic evaluation. For real-world analogs and updates, refer to the new repository [awesome-hac-framework](https://github.com/torisan-unya/awesome-hac-framework).
 
 **Updated as of September 20, 2025 (Version 2.5)**: Further refined structure for enhanced readability; consolidated metrics (e.g., Core X-CII: Human-only ~0.78, AI-only ~0.76, Collab ~0.84); enhanced fairness diagnostics (EOD L_inf median 0.02; calibration gap proxy median 0.40); integrated group-adaptive thresholds (AUROC~0.72: median Relative X-CII 105.2%, win rate 95%; Core ≥0.75 in 100% of runs). Monte Carlo sensitivity (10,000 replicates): median Relative X-CII 108.7% [95% CI: 107.2-110.1%]; 5-95th percentile Relative X-CII 104.3-112.8%. Added axiomatic λ variations and fairness optimizations in "Future Extensions". Ethical alignment: Hallucination detection protocols emphasized throughout.
 
 ---
 
-This directory hosts a series of fictional papers on Human-AI Collaborative Intelligence, spanning theory construction, hypothetical validation, simulation robustness, and synthetic formalization. The framework evolves iteratively, addressing gaps like dynamic metrics, uncertainty handling, ethical integration, domain adaptation, and fairness diagnostics. Community feedback has refined reproducibility, axiomatic rigor, and group-adaptive optimizations.
+This directory hosts a series of fictional papers on Human-AI Collaborative Intelligence, spanning theory construction, hypothetical validation, simulation robustness, and synthetic formalization. The framework evolves iteratively, addressing gaps like dynamic metrics, uncertainty handling, ethical integration, domain adaptation, and fairness diagnostics. Community feedback has refined reproducibility, axiomatic rigor, and group-adaptive optimizations. For ongoing refinements, see [awesome-hac-framework](https://github.com/torisan-unya/awesome-hac-framework).
 
 ## Framework Evolution Overview
 
@@ -35,20 +38,20 @@ This structure bridges conceptual gaps, emphasizing complementarity, safety thre
 | 3 | [03_xc-ii_validation_simulation.md](03_xc-ii_validation_simulation.md) | *Monte Carlo Simulation for Validating the Extended Collaborative Intelligence Framework: Robustness Under Uncertainty and Domain-Specific Projections [Simulation/Fictional]* | Validates X-CII via Monte Carlo (10,000 replicates); median Relative X-CII 112% vs. baselines; addresses shifts (AUROC~0.72-0.85). Builds on Paper 2's extensions. Includes group-adaptive thresholds and win rates. | Median Relative X-CII 112% (5-95th: 104-120%); Core ≥0.75 in 92%; AUROC sensitivity; Group-adaptive τ*. |
 | 4 | [04_x-cii_formalization_and_synthetic_evaluation.md](04_x-cii_formalization_and_synthetic_evaluation.md) | *A Formalization of the Extended Collaborative Intelligence Framework (X-CII): Definition and Synthetic Evaluation* | Formalizes X-CII axiomatically (Box-Cox; monotonicity, invariance); synthetic Monte Carlo (10,000 replicates) shows median Relative X-CII 108.7% [95% CI: 107.2-110.1%]. Integrates simulations from Paper 3. Adds fairness and calibration diagnostics. | Box-Cox avg (λ=0.25); Median Relative 108.7%; EOD L_inf 0.02; Calibration gap 0.40; Raw S >1 proportion. |
 
-*Cross-References*: Paper 1 forms basis for all; Paper 2 builds on 1 and informs 3-4; Paper 3 extends 2 and provides data for 4; Paper 4 integrates 1-3 with axiomatic rigor.
+*Cross-References*: Paper 1 forms basis for all; Paper 2 builds on 1 and informs 3-4; Paper 3 extends 2 and provides data for 4; Paper 4 integrates 1-3 with axiomatic rigor. For updated cross-references and extensions, see [awesome-hac-framework](https://github.com/torisan-unya/awesome-hac-framework).
 
 ---
 
 ## Recommended Reading Order
 
-To grasp the framework's evolution (theory → extension → validation → formalization ), read in this order:
+To grasp the framework's evolution ( theory → extension → validation → formalization ), read in this order:
 
 1. **[01_theoretical-framework.md](01_theoretical-framework.md)**: Establishes E-CEI foundations.
 2. **[02_extended-framework-validation.md](02_extended-framework-validation.md)**: Extends to X-CII with hypothetical scenarios.
 3. **[03_xc-ii_validation_simulation.md](03_xc-ii_validation_simulation.md)**: Tests robustness via simulations.
 4. **[04_x-cii_formalization_and_synthetic_evaluation.md](04_x-cii_formalization_and_synthetic_evaluation.md)**: Formalizes X-CII with axioms and synthetic evaluation.
 
-For deeper exploration, visit the GitHub repository: [AI-Novel-Prompt-Hybrid/academic-paper](https://github.com/torisan-unya/AI-Novel-Prompt-Hybrid/tree/main/academic-paper).
+For deeper exploration, visit the new repository: [awesome-hac-framework](https://github.com/torisan-unya/awesome-hac-framework).
 
 ---
 
@@ -57,7 +60,7 @@ For deeper exploration, visit the GitHub repository: [AI-Novel-Prompt-Hybrid/aca
 - **Axiomatic Enhancements**: Explore λ variations (e.g., λ=0.1 for stronger imbalance penalties; λ=0.5 for milder) and weighted Box-Cox for domain-specific adaptations (e.g., healthcare: higher S weight). Integrate advanced uncertainty quantification (e.g., epistemic uncertainty via Penalty Ensemble Method).
 - **Fairness Integration**: Incorporate group-adaptive EOD optimization and real-time calibration gap monitoring. Add diagnostics like TPR-FPR differences across stratified groups.
 - **Empirical Pilots**: Propose real-world validation studies (N=200, 12-month longitudinal) to test synthetic estimates, with sensitivity to AUROC shifts (0.72-0.85). Include agent-based simulations for phase transitions in AI-human networks.
-- **Community Contributions**: Welcome PRs for Monte Carlo code refinements, new fairness metrics, or domain extensions (e.g., education, finance). Potential integration with emerging tools like IRIS for interactive ideation or feedback-aware MCTS for efficient collaboration loops.
+- **Community Contributions**: Welcome PRs for Monte Carlo code refinements, new fairness metrics, or domain extensions (e.g., education, finance). Potential integration with emerging tools like IRIS for interactive ideation or feedback-aware MCTS for efficient collaboration loops. For active contributions, see [awesome-hac-framework](https://github.com/torisan-unya/awesome-hac-framework).
 
 ---
 
@@ -75,7 +78,7 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 
 ### Additional Resources
 - Follow [@torisan_unya on X](https://x.com/torisan_unya) for updates on prompting frameworks and discussions.
-- Contribute via GitHub: Issues/PRs welcome for refinements (e.g., axiomatic extensions, simulation code, fairness metrics).
+- Contribute via GitHub: Issues/PRs welcome for refinements (e.g., axiomatic extensions, simulation code, fairness metrics). For ongoing work, see [awesome-hac-framework](https://github.com/torisan-unya/awesome-hac-framework).
 - Related Real-World Resources: For non-fictional analogs, see HAIC Framework (arXiv:2407.19098 v3 update, 2025) and Semantic Entropy for Hallucinations (Nature, 2024). (New: Human-Centered Human-AI Collaboration (HCHAC) arXiv:2505.22477; Group-Adaptive Threshold Optimization arXiv:2502.04528; Uncertainty-Aware Task Delegation arXiv:2505.18066; Monte Carlo for Human-AI Synergy arXiv:2507.01062 [placeholders for 2025 preprints].)
 
 ---
