@@ -6,11 +6,13 @@ This repository serves as an archive for academic and creative explorations born
 
 This space houses two main projects, both originating from an endeavor to treat AI not merely as a tool, but as a partner in thought and creation.
 
-*   ### 📂 `/academic-paper`
-    *   An academic paper that explores "Qualia Resonance," a new concept concerning consciousness and qualia, constructed through dialogue with an AI.
+* ### 📂 `/academic-paper`
+    * An academic paper that explores "Qualia Resonance," a new concept concerning consciousness and qualia, constructed through dialogue with an AI.
+    * **Migration Notice**: This project has been moved to the new repository: [awesome-hac-framework](https://github.com/torisan-unya/awesome-hac-framework) for continued development and updates on the Human-AI Collaborative Intelligence (HAC) framework.
 
-*   ### 📂 `/ai-novel`
-    *   An experimental story (AI novel) woven from improvisational dialogue with an AI, exploring the potential of human-AI co-creation.
+* ### 📂 `/ai-novel`
+    * An experimental story (AI novel) woven from improvisational dialogue with an AI, exploring the potential of human-AI co-creation.
+    * **Migration Notice**: This project has been moved to: [The-Heliocentric-Method](https://github.com/torisan-unya/The-Heliocentric-Method) for further exploration.
 
 ## Concept
 
