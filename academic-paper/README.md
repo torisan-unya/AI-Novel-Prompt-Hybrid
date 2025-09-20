@@ -6,11 +6,11 @@
 
 ### **Important Note**
 
-**The papers in this directory are fictional academic artifacts generated via Human-AI collaboration (involving the author and multiple AIs). All components—authors, affiliations, dates, data, results, references, and journal names—are fabricated for illustrative purposes. No real-world empirical claims are made.** This meta-exercise demonstrates the iterative evolution of collaborative frameworks, emphasizing ethical alignment, uncertainty handling, axiomatic rigor, and fairness diagnostics as per X-CII principles.
+**The papers in this directory are fictional academic artifacts generated via Human-AI collaboration (involving the author and multiple AIs). All components—authors, affiliations, dates, data, results, references, and journal names—are fabricated for illustrative purposes. No real-world empirical claims are made.** This meta-exercise demonstrates the iterative evolution of collaborative frameworks, emphasizing ethical alignment, uncertainty handling (e.g., hallucination detection protocols with semantic entropy baseline, AUROC~0.75-0.85), axiomatic rigor, and fairness diagnostics as per X-CII principles.
 
 This meta-exercise explores "Human-AI Collaborative Intelligence" by demonstrating framework creation through dialogue. It evolves from theoretical foundations (E-CEI) to extensions (X-CII), simulation-based robustness, and axiomatic formalization with synthetic evaluation. For real-world analogs and updates, refer to the GitHub repository.
 
-**Updated as of September 20, 2025 (Version 2.3)**: Further streamlined structure; consolidated metrics (e.g., Core X-CII: Human-only ~0.78, AI-only ~0.76, Collab ~0.84); enhanced fairness diagnostics (EOD L_inf median 0.02; calibration gap proxy median 0.40); integrated group-adaptive thresholds (AUROC~0.72: median Relative X-CII 105.2%, win rate 95%; Core ≥0.75 in 100% of runs). Monte Carlo sensitivity (10,000 replicates): 5-95th percentile Relative X-CII 104.3-112.8%. Added axiomatic λ variations in "Future Extensions".
+**Updated as of September 20, 2025 (Version 2.5)**: Further refined structure for enhanced readability; consolidated metrics (e.g., Core X-CII: Human-only ~0.78, AI-only ~0.76, Collab ~0.84); enhanced fairness diagnostics (EOD L_inf median 0.02; calibration gap proxy median 0.40); integrated group-adaptive thresholds (AUROC~0.72: median Relative X-CII 105.2%, win rate 95%; Core ≥0.75 in 100% of runs). Monte Carlo sensitivity (10,000 replicates): median Relative X-CII 108.7% [95% CI: 107.2-110.1%]; 5-95th percentile Relative X-CII 104.3-112.8%. Added axiomatic λ variations and fairness optimizations in "Future Extensions". Ethical alignment: Hallucination detection protocols emphasized throughout.
 
 ---
 
@@ -19,12 +19,12 @@ This directory hosts a series of fictional papers on Human-AI Collaborative Inte
 ## Framework Evolution Overview
 
 The papers trace the framework's progression in four stages (aligned with E-CEI's model):
-- **Stage 1 (Theoretical)**: Introduces E-CEI for synergistic evaluation with trust-weighted metrics (T coefficient), reliability factor (R), and ethical principles.
-- **Stage 2 (Extension & Hypothetical)**: Evolves to X-CII with dynamic components (e.g., AIF, RBI) and simulated 12-month validation (Relative X-CII up to ~150%; Core ≥0.75 in 92% of runs).
-- **Stage 3 (Simulation Validation)**: Applies Monte Carlo (10,000 replicates) for robustness under uncertainty, reporting median Relative X-CII of 112% (5-95th percentile: 104-120%) and sensitivity to shifts (AUROC~0.72-0.85). Includes group-adaptive thresholds and win rates.
-- **Stage 4 (Formalization & Synthetic)**: Defines X-CII axiomatically (Box-Cox average of Q, E, S; λ=0.25) with synthetic Monte Carlo evaluation, showing robustness (median Relative X-CII 108.7% [95% CI: 107.2-110.1%]; Core ≥0.75 in all runs). Integrates fairness diagnostics (EOD L_inf median 0.02; calibration gap proxy median 0.40) and human-anchored S variants.
+- **Stage 1 (Theoretical)**: Introduces E-CEI for synergistic evaluation with trust-weighted metrics (T coefficient), reliability factor (R), and ethical principles. (Cross-ref: Basis for all subsequent stages.)
+- **Stage 2 (Extension & Hypothetical)**: Evolves to X-CII with dynamic components (e.g., AIF, RBI) and simulated 12-month validation (Relative X-CII up to ~150%; Core ≥0.75 in 92% of runs). (Cross-ref: Builds on Stage 1; informs Stages 3-4.)
+- **Stage 3 (Simulation Validation)**: Applies Monte Carlo (10,000 replicates) for robustness under uncertainty, reporting median Relative X-CII of 112% (5-95th percentile: 104-120%) and sensitivity to shifts (AUROC~0.72-0.85). Includes group-adaptive thresholds and win rates. (Cross-ref: Extends Stage 2; provides data for Stage 4.)
+- **Stage 4 (Formalization & Synthetic)**: Defines X-CII axiomatically (Box-Cox average of Q, E, S; λ=0.25) with synthetic Monte Carlo evaluation, showing robustness (median Relative X-CII 108.7% [95% CI: 107.2-110.1%]; Core ≥0.75 in all runs). Integrates fairness diagnostics (EOD L_inf median 0.02; calibration gap proxy median 0.40) and human-anchored S variants. (Cross-ref: Integrates Stages 1-3 with axiomatic rigor.)
 
-This structure bridges conceptual gaps, emphasizing complementarity, safety thresholds, and domain adaptation. **X-CII Core values across stages: Human-only mean ~0.78; AI-only ~0.76; Collab ~0.84 (synthetic estimates).** Sensitivity to domain shifts: Under AUROC=0.72, Relative X-CII drops to 105.2% with 95% win rate vs. baselines.
+This structure bridges conceptual gaps, emphasizing complementarity, safety thresholds, and domain adaptation. **X-CII Core values across stages: Human-only mean ~0.78; AI-only ~0.76; Collab ~0.84 (synthetic estimates).** Sensitivity to domain shifts: Under AUROC=0.72, Relative X-CII drops to 105.2% with 95% win rate vs. baselines. Fairness diagnostics ensure balanced representation (e.g., EOD L_inf <0.05 in 95% of runs).
 
 ## Papers
 
@@ -54,10 +54,10 @@ For deeper exploration, visit the GitHub repository: [AI-Novel-Prompt-Hybrid/aca
 
 ## Future Extensions
 
-- Axiomatic enhancements: Explore λ variations (e.g., λ=0.1 for stronger imbalance penalties; λ=0.5 for milder) and weighted Box-Cox for domain-specific adaptations (e.g., healthcare: higher S weight).
-- Fairness integration: Incorporate advanced diagnostics like group-adaptive EOD optimization and real-time calibration gap monitoring.
-- Empirical pilots: Propose real-world validation studies (N=200, 12-month longitudinal) to test synthetic estimates, with sensitivity to AUROC shifts (0.72-0.85).
-- Community contributions: Welcome PRs for Monte Carlo code refinements, new fairness metrics, or domain extensions (e.g., education, finance).
+- **Axiomatic Enhancements**: Explore λ variations (e.g., λ=0.1 for stronger imbalance penalties; λ=0.5 for milder) and weighted Box-Cox for domain-specific adaptations (e.g., healthcare: higher S weight). Integrate advanced uncertainty quantification (e.g., epistemic uncertainty via Penalty Ensemble Method).
+- **Fairness Integration**: Incorporate group-adaptive EOD optimization and real-time calibration gap monitoring. Add diagnostics like TPR-FPR differences across stratified groups.
+- **Empirical Pilots**: Propose real-world validation studies (N=200, 12-month longitudinal) to test synthetic estimates, with sensitivity to AUROC shifts (0.72-0.85). Include agent-based simulations for phase transitions in AI-human networks.
+- **Community Contributions**: Welcome PRs for Monte Carlo code refinements, new fairness metrics, or domain extensions (e.g., education, finance). Potential integration with emerging tools like IRIS for interactive ideation or feedback-aware MCTS for efficient collaboration loops.
 
 ---
 
