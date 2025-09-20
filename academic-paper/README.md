@@ -10,7 +10,7 @@
 
 This meta-exercise explores "Human-AI Collaborative Intelligence" by demonstrating framework creation through dialogue. It evolves from theoretical foundations (E-CEI) to extensions (X-CII), simulation-based robustness, and axiomatic formalization with synthetic evaluation. For real-world analogs and updates, refer to the GitHub repository.
 
-**Updated as of October 15, 2025**: Revised to enhance clarity on axiomatic properties (e.g., monotonicity, invariance under Box-Cox aggregation, λ=0.25) and integrate fairness diagnostics (e.g., EOD L_inf median 0.02; calibration gap proxy median 0.40). Added emphasis on group-adaptive thresholds for robustness (e.g., AUROC~0.72 scenario: median Relative X-CII 105.2%, win rate 95%; Core X-CII ≥0.75 in 100% of synthetic runs). Incorporated Monte Carlo sensitivity analyses (10,000 replicates) showing 5-95th percentile Relative X-CII: 104.3-112.8%.
+**Updated as of October 20, 2025 (Version 2.1)**: Enhanced clarity on axiomatic properties (e.g., monotonicity, invariance under Box-Cox aggregation, λ=0.25) and integrated fairness diagnostics (e.g., EOD L_inf median 0.02; calibration gap proxy median 0.40). Added group-adaptive thresholds for robustness (e.g., AUROC~0.72 scenario: median Relative X-CII 105.2%, win rate 95%; Core X-CII ≥0.75 in 100% of synthetic runs). Incorporated Monte Carlo sensitivity analyses (10,000 replicates) showing 5-95th percentile Relative X-CII: 104.3-112.8%. Added cross-references for dynamic components (AIF, RBI) across papers.
 
 ---
 
@@ -19,10 +19,10 @@ This directory hosts a series of fictional papers on Human-AI Collaborative Inte
 ## Framework Evolution Overview
 
 The papers trace the framework's progression:
-- **Stage 1 (Theoretical)**: Introduces E-CEI for synergistic evaluation **with trust-weighted metrics (T coefficient), reliability factor (R), and ethical principles**.
-- **Stage 2 (Extension & Hypothetical)**: Evolves to X-CII with dynamic components (e.g., AIF, RBI) and simulated 12-month validation **(e.g., Relative X-CII up to ~150%; Core X-CII ≥0.75 in 92% of runs)**.
-- **Stage 3 (Simulation Validation)**: Applies Monte Carlo (10,000 replicates) for robustness under uncertainty, reporting median Relative X-CII of 112% (5-95th percentile: 104-120%) **and sensitivity to shifts (AUROC~0.72-0.85)**. Includes group-adaptive thresholds and win rates.
-- **Stage 4 (Formalization & Synthetic)**: Defines X-CII axiomatically (Box-Cox average of Q, E, S; λ=0.25) with synthetic Monte Carlo evaluation, showing robustness (e.g., median Relative X-CII 108.7% [95% CI: 107.2-110.1%]; Core ≥0.75 in all runs). **Integrates fairness diagnostics (e.g., EOD L_inf median 0.02; calibration gap proxy median 0.40)** and human-anchored S variants.
+- **Stage 1 (Theoretical)**: Introduces E-CEI for synergistic evaluation **with trust-weighted metrics (T coefficient), reliability factor (R), and ethical principles** (cross-ref: Paper 4's axiomatic formalization).
+- **Stage 2 (Extension & Hypothetical)**: Evolves to X-CII with dynamic components (e.g., AIF, RBI) and simulated 12-month validation **(e.g., Relative X-CII up to ~150%; Core X-CII ≥0.75 in 92% of runs)** (cross-ref: Paper 3's Monte Carlo validation).
+- **Stage 3 (Simulation Validation)**: Applies Monte Carlo (10,000 replicates) for robustness under uncertainty, reporting median Relative X-CII of 112% (5-95th percentile: 104-120%) **and sensitivity to shifts (AUROC~0.72-0.85)**. Includes group-adaptive thresholds and win rates (cross-ref: Paper 4's synthetic evaluation).
+- **Stage 4 (Formalization & Synthetic)**: Defines X-CII axiomatically (Box-Cox average of Q, E, S; λ=0.25) with synthetic Monte Carlo evaluation, showing robustness (e.g., median Relative X-CII 108.7% [95% CI: 107.2-110.1%]; Core ≥0.75 in all runs). **Integrates fairness diagnostics (e.g., EOD L_inf median 0.02; calibration gap proxy median 0.40)** and human-anchored S variants (cross-ref: Papers 1-3 for foundational metrics).
 
 This structure bridges conceptual gaps, emphasizing complementarity, safety thresholds, and domain adaptation. **X-CII Core values across stages: Human-only mean ~0.78; AI-only ~0.76; Collab ~0.84 (synthetic estimates).** Sensitivity to domain shifts: Under AUROC=0.72, Relative X-CII drops to 105.2% with 95% win rate vs. baselines.
 
@@ -41,9 +41,9 @@ This structure bridges conceptual gaps, emphasizing complementarity, safety thre
 
 To grasp the framework's evolution ( theory → extension → validation → formalization ), read in this order:
 
-1. **[01_theoretical-framework.md](01_theoretical-framework.md)**: Establishes E-CEI foundations, including metrics and ethical alignment. **Cross-reference: Core principles for trust calibration (T, R).**
-2. **[02_extended-framework-validation.md](02_extended-framework-validation.md)**: Extends to X-CII with hypothetical scenarios, bridging theory to practice. **Cross-reference: Dynamic S component from E-CEI; AIF/RBI integration.**
-3. **[03_xc-ii_validation_simulation.md](03_xc-ii_validation_simulation.md)**: Tests robustness via simulations, quantifying uncertainty (e.g., domain shifts). **Cross-reference: Builds on X-CII extensions with Monte Carlo priors; group-adaptive thresholds.**
+1. **[01_theoretical-framework.md](01_theoretical-framework.md)**: Establishes E-CEI foundations, including metrics and ethical alignment. **Cross-reference: Core principles for trust calibration (T, R); foundational for X-CII's axiomatic properties in Paper 4.**
+2. **[02_extended-framework-validation.md](02_extended-framework-validation.md)**: Extends to X-CII with hypothetical scenarios, bridging theory to practice. **Cross-reference: Dynamic S component from E-CEI; AIF/RBI integration; informs Monte Carlo priors in Paper 3.**
+3. **[03_xc-ii_validation_simulation.md](03_xc-ii_validation_simulation.md)**: Tests robustness via simulations, quantifying uncertainty (e.g., domain shifts). **Cross-reference: Builds on X-CII extensions with Monte Carlo priors; group-adaptive thresholds; provides data for synthetic evaluation in Paper 4.**
 4. **[04_x-cii_formalization_and_synthetic_evaluation.md](04_x-cii_formalization_and_synthetic_evaluation.md)**: Formalizes X-CII with axioms and synthetic evaluation, providing reproducible code. **Cross-reference: Integrates all prior stages with axiomatic properties, fairness diagnostics, and human-anchored S.**
 
 For deeper exploration, visit the GitHub repository: [AI-Novel-Prompt-Hybrid/academic-paper](https://github.com/torisan-unya/AI-Novel-Prompt-Hybrid/tree/main/academic-paper).
@@ -65,6 +65,7 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 ### Additional Resources
 - Follow [@torisan_unya on X](https://x.com/torisan_unya) for updates on prompting frameworks and discussions.
 - Contribute via GitHub: Issues/PRs welcome for refinements (e.g., axiomatic extensions, simulation code, fairness metrics).
-- Related Real-World Resources: For non-fictional analogs, see HAIC Framework (arXiv:2407.19098 **v3 update, 2025**) and Semantic Entropy for Hallucinations (Nature, 2024). **(New: Human-Centered Human-AI Collaboration (HCHAC) arXiv:2505.22477; Group-Adaptive Threshold Optimization arXiv:2502.04528; Uncertainty-Aware Task Delegation arXiv:2505.18066 [placeholders for 2025 preprints].)**
+- Related Real-World Resources: For non-fictional analogs, see HAIC Framework (arXiv:2407.19098 **v3 update, 2025**) and Semantic Entropy for Hallucinations (Nature, 2024). **(New: Human-Centered Human-AI Collaboration (HCHAC) arXiv:2505.22477; Group-Adaptive Threshold Optimization arXiv:2502.04528; Uncertainty-Aware Task Delegation arXiv:2505.18066; Monte Carlo for Human-AI Synergy arXiv:2507.01062 [placeholders for 2025 preprints].)**
 
 ---
+
